@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);:
 
         System.out.println("Escolha uma opção:");
         System.out.println("1 - Calcular IMC, (Km/L), Calculadora");
